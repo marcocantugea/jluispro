@@ -1,0 +1,166 @@
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.dll
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.dll
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.xml
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.xml
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.Common.dll
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.dll
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.dll
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.xml
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbprojResolveAssemblyReference.cache
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Contactos.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Facturas.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Resources.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Pagar.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ordenes_de_Compra.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.SARE.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cotizaciones.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Cobrar.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OrdenDeCompra_Cliente.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ventas_Resumen.resources
+J:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbproj.GenerateResource.Cache
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.xml
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.xml
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.Common.dll
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.dll
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.dll
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.xml
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbprojResolveAssemblyReference.cache
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Contactos.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas_Buscar.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Facturas.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Resources.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Pagar.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ordenes_de_Compra.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.SARE.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cotizaciones.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Cobrar.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OrdenDeCompra_Cliente.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ventas_Resumen.resources
+E:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbproj.GenerateResource.Cache
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.Common.dll
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.xml
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Contactos.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas_Buscar.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Facturas.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Resources.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Pagar.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ordenes_de_Compra.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.SARE.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cotizaciones.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Cobrar.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OrdenDeCompra_Cliente.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ventas_Resumen.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbproj.GenerateResource.Cache
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.xml
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.xml
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.EmpresaModal.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.CotizacionAgregarPartida.resources
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbprojResolveAssemblyReference.cache
+H:\Empresa\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Proyectos_Main.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.dll
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.dll
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Aplicacion.xml
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.Common.dll
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.xml
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_ParaTrabajo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Busca_Valor.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Clasificacion_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Clasificacion_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Divisa_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Divisa_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Imagenes_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Productos_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Recepcion_Material.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Unidad_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Unidad_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Contactos.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.EmpresaModal.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Empresas_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Facturas.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Resources.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Maquinaria_Detalles.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Maquinaria_RegistrodeUso.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Trabajadores_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Pagar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ordenes_de_Compra.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.BuscarProy_Emergente.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Cliente_Pop.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Cotizacion_Pop.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_BuscarOT_Popup.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Cliente_Popup.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Cotizacion_Modal.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Material_Popup.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Proyectos_Popup.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Trabajador_Popup.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OTs_Modal.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Catalogo_OTs.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Main.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OT_Buscar_Modal.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Prioridades_BuscarModal.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Prioridades_ListadoGral.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Proyectos_Main.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.SARE.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.CotizacionAgregarPartida.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cotizaciones.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Cuentas_x_Cobrar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.OrdenDeCompra_Cliente.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ventas_Resumen.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbproj.GenerateResource.Cache
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\RdlCompile.cache
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\RdlCompile.compiled
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.xml
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Listado_en_Uso.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbprojResolveAssemblyReference.cache
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.xml
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbprojResolveAssemblyReference.cache
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Main.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Busca_Valor.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Clasificacion_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Clasificacion_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Divisa_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Divisa_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Imagenes_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Productos_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Recepcion_Material.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Unidad_Buscar.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Unidad_Catalogo.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Resources.resources
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\obj\Debug\Aplicacion.vbproj.GenerateResource.Cache
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\bin\Debug\Aplicacion.xml
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\bin\Debug\MDIWindowManager.xml
+C:\Users\Jhonny\Documents\Desarrollos\Sistema S-ARE\Planeación y Trabajo por Bloques\Almacen\M Cantu\Aplicacion\Aplicacion\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
